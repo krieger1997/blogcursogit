@@ -1,5 +1,5 @@
 body{
-    color:deepskyblue;
+    color:firebrick;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
@@ -8,9 +8,28 @@ body{
 .contenedor{
     margin: 0 auto;
     width: 70%;
-    box-shadow: 5px 5px 10px deepskyblue;
-    padding: 1em;
+    box-shadow: 5px 5px 10px firebrick;
+    padding-top: 0;
+    padding-bottom: 1em;
+    padding-right: 1em;
+    padding: 0 1em 1em 1em;
 }
 p{
     text-align: left;
+}
+.cabecera{
+    text-align: left;
+    background-color: firebrick;
+    color: white;
+    font-weight: bold;
+    padding-left: 1em;
+    /* box-shadow: -1px 9px 102px -28px rgba(0,238,255,1); */
+font-size: x-large;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.cabecera .tagline{
+    color: ghostwhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
 }
