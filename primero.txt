@@ -1,0 +1,7 @@
+hola buenas curso de git a a
+eso es el segundo mensaje 
+
+esto es el tercer mensaje 
+
+nuveo cambio, 4.
+git log
