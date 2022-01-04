@@ -2,4 +2,15 @@ body{
     color:deepskyblue;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    margin: 0 auto;
+    width: 70%;
+    box-shadow: 5px 5px 10px deepskyblue;
+    padding: 1em;
+}
+p{
+    text-align: left;
 }
